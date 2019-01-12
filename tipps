@@ -10,9 +10,11 @@ markieren / hervorheben von Felder / Zellen
 ---------
 markieren und hervorheben von zahlen zwischen z.b. wert 0 - 50 eine rote Ampel 
 - Man sollte sich Links auf den Reiter Start befinden
-- Dann die ganze Tabelle markieren
+- Dann nur den Teil markieren der hervorgeohen werden soll in der Tabelle 
 - Oben auf Bedingte Formatierung klicken
 - Auf Symbolsätze klicekn
 - dann ersten wert für die gruene Ampel setzen z.b. alles was größer und gleich 80 ist erhält eine gruene Ampel
 - dann den zweiten wert eingeben z.b. alles was größer und gleich 60 ist erhält eine orangene Farbe
 - der rest ist rot
+- um das Übersichtlicher zu gestalten sollte man, eine leere spalte zwischen den jeweiligen Spalten einfügen
+  mit rechts klick oben auf eine Spalte und Zellen einfügen klicken
